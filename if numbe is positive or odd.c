@@ -1,4 +1,4 @@
-//if a number is even or odd
+//if a number is positive or negative
 #include <stdio.h>
 int main()
 {
