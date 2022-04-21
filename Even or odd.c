@@ -2,7 +2,7 @@
 #include<studio.h>
 int main() {
     int num;
-    printf("Enter an integer: ");
+    printf("Enter an integer ");
     scanf("%d", &num)
 
     if(num % 2 == 0)
